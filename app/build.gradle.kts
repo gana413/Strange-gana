@@ -37,15 +37,6 @@ android {
         }
     }
 
-    sourceSets {
-        getByName("debug") {
-            java.srcDirs("build/generated/ksp/debug/kotlin")
-        }
-        getByName("release") {
-            java.srcDirs("build/generated/ksp/release/kotlin")
-        }
-    }
-
     buildTypes {
         release {
             isCrunchPngs = false
