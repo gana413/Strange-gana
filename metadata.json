@@ -1,0 +1,6 @@
+{
+  "name": "Mystic Arts AR",
+  "description": "Doctor Strange Mystic Arts AR engine with live front & back camera, Eldritch shields, cosmic portals, energy whips, and voice/gesture spells.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
